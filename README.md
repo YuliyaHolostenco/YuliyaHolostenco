@@ -11,7 +11,7 @@
 
 - 💪 Developing and Documentation of Test Plans, Test Cases, Test Procedures and Java, WEB and Client/ Server applications.
 
-- 🔭 I’m curking on [PLAYMUSICMARKET](https://github.com/YuliyaHolostenco/taf-playmusicmarket) TEST AUTOMATION FRAMEWORK (UI/API TESTING) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔭 I’m currently working on [PLAYMUSICMARKET](https://github.com/YuliyaHolostenco/taf-playmusicmarket) TEST AUTOMATION FRAMEWORK (UI/API TESTING) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 🌱 Certified: **QA Engineer TEST PRO and QA Automation TEST PRO**
 
