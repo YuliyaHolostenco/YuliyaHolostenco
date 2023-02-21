@@ -15,7 +15,7 @@
 
 - 🌱 Certified: **QA Engineer TEST PRO and QA Automation TEST PRO**
 
-- 📄 Know about my experiences [https://cutt.ly/63CYwal](https://cutt.ly/63CYwal)
+
 
 <h3 align="left">Connect with me: <a href="mailto: yuliya.holostenco@gmail.com"><img src="https://img.shields.io/badge/-yuliya.holostenco@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a></h3>
 <p align="left">
