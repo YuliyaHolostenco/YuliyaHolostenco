@@ -1,15 +1,11 @@
 ![v_Sudegnak_Yuliya_Holostenco_E0E0E0_545454_E6E6E6](https://user-images.githubusercontent.com/125691346/219874564-38b6828a-b66d-4b8d-bfd1-9b73d7236262.svg)
-<h3 align="center">I am software development engineer in testing and I involved in the full software development process (SDET Engineer). My professional knowledge of SDET is fully focused on testing, reliability and performance.</h3>
+<h3 align="center">I am a results-oriented Software Development Engineer in Test. My professional knowledge of SDET is fully focused on functional and non-functional testing, reliability and high performance.</h3>
 
-- 💪 Strong experience in automated testing with Java with the help of various frameworks on commercial projects (UI and API testing), where I used various patterns with the implementation of the following tools: 
+- 💪 Strong experience in Automated Testing using Java programming language, Selenium WebDriver, Cucumber Automation Tools. I am proficient in working with various frameworks on commercial projects (UI and API testing), where I have used various patterns with the implementation of the following tools: 
 
-🔎 Git/GitLab/Gradle/Maven/Selenium WebDriver/Selenium Grid/Jenkins/Allure Report/TestNG/JUnit/Cucumber/REST Assured 🔍
+🔎 Git/GitLab/Gradle/Maven/Selenium WebDriver/Selenium Grid/Jenkins/Allure Report/TestNG/JUnit/Cucumber/REST Assured;🔍
 
-- 💪 Experience working in Development & Testing Methodologies such as Agile (Kanban,Scrum) and Waterfall testing methodologies;
-
-- 💪 Solid working experience in Manual and Automated testing using Rest Assured and Selenium using Java;
-
-- 💪 Developing and Documentation of Test Plans, Test Cases, Test Procedures and Java, WEB and Client/ Server applications.
+- 💪 Experience working in Development & Testing Methodologies such as Agile (Kanban,Scrum) and Waterfall;
 
 - 🔭 I’m currently working on [PLAYMUSICMARKET](https://github.com/YuliyaHolostenco/taf-playmusicmarket) TEST AUTOMATION FRAMEWORK (UI/API TESTING) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
